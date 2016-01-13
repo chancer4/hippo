@@ -1,0 +1,1 @@
+<?php print "<h1>HomePage</h1>"; ?>
